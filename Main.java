@@ -1,6 +1,6 @@
 // Name - Nimit Prakash
 //Prn - 23070126082
-// AIML B1
+// AIML B (B1)
 
 public class Main {
     public static void main(String[] args) {
